@@ -17,7 +17,7 @@ Create an Application
 -CREATE
 
 //2
-@BertiProject - API&Services - OAuth consent screen:
+BertiProject - API&Services - OAuth consent screen:
 Edit app registration:
 -External
 -App name: Roby
@@ -27,7 +27,7 @@ Edit app registration:
 -Save and Continue
 
 //3.
-@BertiProject - API&Services - Credentials - CREATE CREDENTIALS - OAuth client ID:
+BertiProject - API&Services - Credentials - CREATE CREDENTIALS - OAuth client ID:
 - Application type: Web application
 - Name: Roby
 - Authorized JavaScript origins: http://localhost:3000
